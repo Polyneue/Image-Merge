@@ -1,0 +1,29 @@
+{
+  "name": "image-merge",
+  "version": "1.0.0",
+  "description": "Node tool to manage the generation of multiple images into one image.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Polyneue/Image-Merge.git"
+  },
+  "keywords": [
+    "Image",
+    "Merge",
+    "Page",
+    "Builder"
+  ],
+  "author": "Ed Mendoza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Polyneue/Image-Merge/issues"
+  },
+  "homepage": "https://github.com/Polyneue/Image-Merge#readme",
+  "devDependencies": {
+    "cli-color": "^1.1.0",
+    "gm": "^1.21.1"
+  }
+}
